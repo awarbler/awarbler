@@ -93,6 +93,11 @@ Distributed systems
 Software testing & coverage analysis  
 Performance optimization  
 
+## Currently Exploring
+- Performance profiling in C systems
+- Embedded-to-cloud system integration patterns
+- Resource-constrained firmware design
+
 ---
 
 ## Education
