@@ -7,11 +7,9 @@ Focus: Embedded Systems, Systems Architecture, and Performance-Critical Software
 
 ## About
 
-I am a graduate student in Software Engineering at the University of Texas at Austin with a strong foundation in low-level systems programming, embedded development, backend architecture, and software testing.
+I am a graduate student in Software Engineering at the University of Texas at Austin with a strong foundation in systems programming, embedded development, backend architecture, and software testing.
 
-My work centers on performance-aware design, hardware–software interaction, and structured system architecture. I am particularly interested in embedded systems that integrate with distributed or cloud-based infrastructure.
-
-I am particularly interested in debugging low-level timing issues, analyzing system behavior, and optimizing performance-critical code paths.
+My work emphasizes hardware–software interaction, performance-aware design, and structured system architecture. I am particularly interested in debugging low-level timing issues, analyzing system behavior, and optimizing performance-critical code paths.
 
 ---
 
@@ -19,29 +17,23 @@ I am particularly interested in debugging low-level timing issues, analyzing sys
 
 - Embedded & low-level systems (C, memory management, timing, hardware interaction)
 - Systems programming and operating systems concepts
-- Backend API design and data modeling (Flask, Java, REST)
-- Distributed and cloud-native architectures (Docker, MongoDB)
+- Backend API design and validated data modeling (Flask, Java, REST)
+- Distributed and containerized architectures (Docker, MongoDB)
 - Structural and data-flow software testing
-- Performance-oriented and resource-aware design
+- Resource-constrained and performance-oriented design
+
+---
+
+## Engineering Approach
+
+- Clear separation of concerns
+- Validation at system boundaries
+- Test-driven and coverage-aware development
+- Resource and performance awareness
 
 ---
 
 ## Selected Projects
-
-### Cloud-Native Hardware Checkout System
-Full-stack system built with React (TypeScript), Flask, MongoDB, and Docker.
-
-Key contributions:
-- API validation and project ownership filtering
-- Hardware check-in/check-out lifecycle management
-- RESTful service architecture and data modeling
-- Integration testing and traceability
-- Frontend–backend system integration
-
-Repository:  
-https://github.com/awarbler/cloud-native-team-project
-
----
 
 ### Embedded IoT Thermostat (Senior Project)
 
@@ -50,28 +42,44 @@ Microcontroller-based thermostat integrating motion detection and environmental 
 Focus areas:
 - Sensor integration (PIR, DHT11)
 - Real-time control logic
+- Timing and state management
 - Hardware–software interaction
 - Resource-constrained design considerations
-- Timing and state management
 
 ---
 
 ### Software Testing – Structural Coverage & Graph Analysis
 
 Advanced testing implementation including:
+
 - Control Flow Graph construction
 - Prime path coverage
 - Data-flow (DU-pair) analysis
-- JUnit-based testing framework
+- JUnit-based test framework design
+
+---
+
+### Cloud-Native Hardware Checkout System
+
+Distributed system built with React (TypeScript), Flask, MongoDB, and Docker.
+
+Key contributions:
+- API validation and ownership-based filtering
+- Hardware lifecycle management (check-in / check-out logic)
+- RESTful service architecture and data modeling
+- Integration testing and traceability
+
+Repository:  
+https://github.com/awarbler/cloud-native-team-project
 
 ---
 
 ### Rust SQL Parser Work
 
-Systems-level parsing and type-safe design in Rust.
+Systems-level parsing implementation in Rust.
 
 Focus areas:
-- Static typing and ownership model
+- Ownership model and static typing
 - Structured parsing logic
 - Performance-aware implementation
 
@@ -93,9 +101,12 @@ Distributed systems
 Software testing & coverage analysis  
 Performance optimization  
 
+---
+
 ## Currently Exploring
+
 - Performance profiling in C systems
-- Embedded-to-cloud system integration patterns
+- Embedded-to-cloud integration patterns
 - Resource-constrained firmware design
 
 ---
