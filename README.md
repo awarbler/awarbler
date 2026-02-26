@@ -11,6 +11,8 @@ I am a graduate student in Software Engineering at the University of Texas at Au
 
 My work centers on performance-aware design, hardware–software interaction, and structured system architecture. I am particularly interested in embedded systems that integrate with distributed or cloud-based infrastructure.
 
+I am particularly interested in debugging low-level timing issues, analyzing system behavior, and optimizing performance-critical code paths.
+
 ---
 
 ## Technical Focus
