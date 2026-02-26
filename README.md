@@ -6,15 +6,19 @@ Focus: Embedded Systems, Backend Architecture, and Performance-Critical Software
 ---
 
 ## About Me
+MS Software Engineering | Embedded & Systems-Focused Developer  
 
-I am a Master's student in Software Engineering with a strong interest in:
+I am a graduate student in Software Engineering at the University of Texas at Austin with a strong foundation in systems programming, embedded development, backend architecture, and software testing. My work spans low-level C systems programming through cloud-native application development.
 
-- Embedded and real-time systems
+## Technical Focus
+
+- Embedded & low-level systems (C, memory, timing, hardware interaction)
+- Backend API design (Flask, Java, REST)
+- Distributed and Cloud-native systems (Docker, MongoDB, React)
+- Software testing & structural coverage
+- Performance-oriented design
 - Low-level C programming
 - Performance optimization
-- Backend API design
-- Distributed and cloud-native systems
-- Software testing and verification
 
 My work spans firmware-level projects, backend systems, and full-stack cloud-native applications.
 
@@ -23,9 +27,12 @@ My work spans firmware-level projects, backend systems, and full-stack cloud-nat
 ## Featured Projects
 
 ### Cloud Native Hardware Checkout App
-Full-stack cloud-native application built with React (TypeScript), Flask, MongoDB, and Docker.
 
-Focus areas:
+Full-stack system using React (TypeScript), Flask, MongoDB, Docker.
+- Owner-based project filtering
+- Hardware check-in/check-out validation
+- RESTful API architecture
+- Test-driven components
 - API validation and data modeling
 - Project and hardware lifecycle management
 - Testing and traceability
@@ -44,6 +51,12 @@ Focus areas:
 - Timing considerations
 - Hardware-software interaction
 - Resource-constrained design
+- Arduino-based thermostat system integrating:
+- PIR motion sensor
+- DHT11 temperature sensor
+- Real-time display
+- Control logic
+- Hardware/software integration
 
 ---
 
@@ -53,6 +66,10 @@ Advanced testing work including:
 - Data-flow (DU-pair) testing
 - JUnit testing frameworks
 - Coverage criteria implementation
+- - Graph structures
+- Prime path coverage
+- Data-flow (DU-pair) analysis
+- JUnit testing strategy
 
 ---
 
@@ -82,7 +99,7 @@ Systems & Tools:
 - Flask
 - React (Vite + MUI)
 - Maven
-- Git
+- Git / GitHub
 - Linux/macOS development
 
 Concepts:
@@ -93,8 +110,18 @@ Concepts:
 - Performance optimization
 
 ---
+## Education
+
+MS Software Engineering — University of Texas at Austin  
+BS Software Engineering — Brigham Young University
+
+Relevant coursework includes:
+Systems Programming, Operating Systems, Computer Systems,
+Cloud-Native Application Development, Software Testing,
+Machine Learning, Communication Networks, Computer Security.
 
 ## Portfolio
+
 
 Website:
 https://awarbler.github.io/
