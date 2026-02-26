@@ -1,130 +1,107 @@
 # Anita Woodford
 
 MS Software Engineering – University of Texas at Austin  
-Focus: Embedded Systems, Backend Architecture, and Performance-Critical Software
+Focus: Embedded Systems, Systems Architecture, and Performance-Critical Software
 
 ---
 
-## About Me
-MS Software Engineering | Embedded & Systems-Focused Developer  
+## About
 
-I am a graduate student in Software Engineering at the University of Texas at Austin with a strong foundation in systems programming, embedded development, backend architecture, and software testing. My work spans low-level C systems programming through cloud-native application development.
+I am a graduate student in Software Engineering at the University of Texas at Austin with a strong foundation in low-level systems programming, embedded development, backend architecture, and software testing.
+
+My work centers on performance-aware design, hardware–software interaction, and structured system architecture. I am particularly interested in embedded systems that integrate with distributed or cloud-based infrastructure.
+
+---
 
 ## Technical Focus
 
-- Embedded & low-level systems (C, memory, timing, hardware interaction)
-- Backend API design (Flask, Java, REST)
-- Distributed and Cloud-native systems (Docker, MongoDB, React)
-- Software testing & structural coverage
-- Performance-oriented design
-- Low-level C programming
-- Performance optimization
-
-My work spans firmware-level projects, backend systems, and full-stack cloud-native applications.
+- Embedded & low-level systems (C, memory management, timing, hardware interaction)
+- Systems programming and operating systems concepts
+- Backend API design and data modeling (Flask, Java, REST)
+- Distributed and cloud-native architectures (Docker, MongoDB)
+- Structural and data-flow software testing
+- Performance-oriented and resource-aware design
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-### Cloud Native Hardware Checkout App
+### Cloud-Native Hardware Checkout System
+Full-stack system built with React (TypeScript), Flask, MongoDB, and Docker.
 
-Full-stack system using React (TypeScript), Flask, MongoDB, Docker.
-- Owner-based project filtering
-- Hardware check-in/check-out validation
-- RESTful API architecture
-- Test-driven components
-- API validation and data modeling
-- Project and hardware lifecycle management
-- Testing and traceability
-- Frontend-backend integration
+Key contributions:
+- API validation and project ownership filtering
+- Hardware check-in/check-out lifecycle management
+- RESTful service architecture and data modeling
+- Integration testing and traceability
+- Frontend–backend system integration
 
-Repository:
+Repository:  
 https://github.com/awarbler/cloud-native-team-project
 
 ---
 
 ### Embedded IoT Thermostat (Senior Project)
-Embedded system using microcontroller sensors, motion detection, and temperature control.
+
+Microcontroller-based thermostat integrating motion detection and environmental sensing.
 
 Focus areas:
-- Sensor integration
-- Timing considerations
-- Hardware-software interaction
-- Resource-constrained design
-- Arduino-based thermostat system integrating:
-- PIR motion sensor
-- DHT11 temperature sensor
-- Real-time display
-- Control logic
-- Hardware/software integration
+- Sensor integration (PIR, DHT11)
+- Real-time control logic
+- Hardware–software interaction
+- Resource-constrained design considerations
+- Timing and state management
 
 ---
 
-### Software Testing – Structural Coverage & Graph Testing
-Advanced testing work including:
-- Control Flow Graph analysis
-- Data-flow (DU-pair) testing
-- JUnit testing frameworks
-- Coverage criteria implementation
-- - Graph structures
+### Software Testing – Structural Coverage & Graph Analysis
+
+Advanced testing implementation including:
+- Control Flow Graph construction
 - Prime path coverage
 - Data-flow (DU-pair) analysis
-- JUnit testing strategy
+- JUnit-based testing framework
 
 ---
 
 ### Rust SQL Parser Work
-Contributions involving parsing and systems-level Rust code.
+
+Systems-level parsing and type-safe design in Rust.
 
 Focus areas:
-- Static typing
-- Performance-aware design
+- Static typing and ownership model
 - Structured parsing logic
+- Performance-aware implementation
 
 ---
 
 ## Technical Skills
 
-Languages:
-- C
-- Rust
-- Java
-- Python
-- TypeScript
-- C#
+### Languages
+C, Rust, Java, Python, TypeScript, C#
 
-Systems & Tools:
-- Docker
-- MongoDB
-- Flask
-- React (Vite + MUI)
-- Maven
-- Git / GitHub
-- Linux/macOS development
+### Systems & Tools
+Docker, MongoDB, Flask, React (Vite + MUI), Maven, Git, Linux/macOS
 
-Concepts:
-- Embedded systems
-- API design
-- Distributed systems
-- Software testing
-- Performance optimization
+### Core Concepts
+Embedded systems  
+Operating systems fundamentals  
+API architecture  
+Distributed systems  
+Software testing & coverage analysis  
+Performance optimization  
 
 ---
+
 ## Education
 
 MS Software Engineering — University of Texas at Austin  
-BS Software Engineering — Brigham Young University
+BS Software Engineering — Brigham Young University  
 
-Relevant coursework includes:
-Systems Programming, Operating Systems, Computer Systems,
-Cloud-Native Application Development, Software Testing,
-Machine Learning, Communication Networks, Computer Security.
+Relevant coursework: Systems Programming, Operating Systems, Computer Systems, Cloud-Native Application Development, Software Testing, Communication Networks, Computer Security, Machine Learning.
+
+---
 
 ## Portfolio
 
-
-Website:
-https://awarbler.github.io/
-
-E-Portfolio:
-https://awarbler.github.io/cs308/eportfolio/eportfolio.html
+Website: https://awarbler.github.io/
