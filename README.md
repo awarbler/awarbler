@@ -1,28 +1,29 @@
 # Anita Woodford
 
 MS Software Engineering – University of Texas at Austin  
-Focus: Embedded Systems, Systems Architecture, and Performance-Critical Software
+Focus: Systems Architecture, Embedded Systems, and Distributed Software Engineering
 
 ---
 
 ## About
 
-I am a graduate student in Software Engineering at the University of Texas at Austin with a strong foundation in systems programming, embedded development, backend architecture, and software testing.
+I am a graduate student in Software Engineering at the University of Texas at Austin with academic experience in systems programming, embedded development, backend architecture, and software testing.
 
-My work emphasizes hardware–software interaction, performance-aware design, and structured system architecture. I am particularly interested in debugging low-level timing issues, analyzing system behavior, and optimizing performance-critical code paths.
+My work emphasizes hardware–software interaction, performance-aware design, and structured system architecture. I am particularly interested in debugging low-level timing issues, analyzing system behavior, and optimizing performance-critical code paths, and applying these principles to backend and distributed systems.
 
 ---
 
 ## Technical Focus
-
-- Embedded & low-level systems (C, memory management, timing, hardware interaction)
 - Systems programming and operating systems concepts
 - Backend API design and validated data modeling (Flask, Java, REST)
 - Distributed and containerized architectures (Docker, MongoDB)
+- Embedded & low-level systems including IoT Integration (C, memory management, timing, hardware interaction)
+- Data Structures and Algorithms
 - Structural and data-flow software testing
-- Resource-constrained and performance-oriented design
+- Machine Learning Foundations
 
 ---
+
 
 ## Engineering Approach
 
@@ -88,18 +89,19 @@ Focus areas:
 ## Technical Skills
 
 ### Languages
-C, Rust, Java, Python, TypeScript, C#
+C, C++, Rust, Java, Python, C#, TypeScript, Kotlin
 
 ### Systems & Tools
-Docker, MongoDB, Flask, React (Vite + MUI), Maven, Git, Linux/macOS
+Docker, MongoDB, Flask, Django, React (Vite + MUI), .NET, Maven, Git, Linux/macOS, Arduino
 
 ### Core Concepts
-Embedded systems  
-Operating systems fundamentals  
-API architecture  
-Distributed systems  
-Software testing & coverage analysis  
-Performance optimization  
+Embedded systems · Operating systems · API architecture · Distributed systems · Software testing · Performance optimization 
+
+### Additional Experience 
+- Technical documentation
+- Team collaboration and leadership
+- Academic mentoring
+- Inventory and operational management
 
 ---
 
