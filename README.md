@@ -1,127 +1,142 @@
 # Anita Woodford
 
-MS Software Engineering – University of Texas at Austin  
-Focus: Systems Architecture, Embedded Systems, and Distributed Software Engineering
+MSE Software Engineering (OPIII · WP) · University of Texas at Austin  
+Focus: Software Engineering  
+BS Software Engineering · Brigham Young University Idaho
+
+Seeking internships in Embedded/Systems Engineering · Backend/Distributed Systems · Machine Learning & Data Engineering
+
+Location: Austin, TX | [github.com/awarbler](https://github.com/awarbler)
 
 ---
 
-## About
+## What I Build
 
-I am a graduate student in Software Engineering at the University of Texas at Austin with academic experience in systems programming, embedded development, backend architecture, and software testing.
-
-My work emphasizes hardware–software interaction, performance-aware design, and structured system architecture. I am particularly interested in debugging low-level timing issues, analyzing system behavior, and optimizing performance-critical code paths, and applying these principles to backend and distributed systems.
-
----
-
-## Technical Focus
-- Systems programming and operating systems concepts
-- Backend API design and validated data modeling (Flask, Java, REST)
-- Distributed and containerized architectures (Docker, MongoDB)
-- Embedded & low-level systems including IoT Integration (C, memory management, timing, hardware interaction)
-- Data Structures and Algorithms
-- Structural and data-flow software testing
-- Machine Learning Foundations
-
----
-
-
-## Engineering Approach
-
-- Clear separation of concerns
-- Validation at system boundaries
-- Test-driven and coverage-aware development
-- Resource and performance awareness
-
----
-
-## Selected Projects
-
-### Embedded IoT Thermostat (Senior Project)
-
-Microcontroller-based thermostat integrating motion detection and environmental sensing.
-
-Focus areas:
-- Sensor integration (PIR, DHT11)
-- Real-time control logic
-- Timing and state management
-- Hardware–software interaction
-- Resource-constrained design considerations
-
----
-
-### Software Testing – Structural Coverage & Graph Analysis
-
-Advanced testing implementation including:
-
-- Control Flow Graph construction
-- Prime path coverage
-- Data-flow (DU-pair) analysis
-- JUnit-based test framework design
-
----
-
-### Cloud-Native Hardware Checkout System
-
-Distributed system built with React (TypeScript), Flask, MongoDB, and Docker.
-
-Key contributions:
-- API validation and ownership-based filtering
-- Hardware lifecycle management (check-in / check-out logic)
-- RESTful service architecture and data modeling
-- Integration testing and traceability
-
-Repository:  
-https://github.com/awarbler/cloud-native-team-project
-
----
-
-### Rust SQL Parser Work
-
-Systems-level parsing implementation in Rust.
-
-Focus areas:
-- Ownership model and static typing
-- Structured parsing logic
-- Performance-aware implementation
+I design and implement systems where hardware meets software, from microcontroller firmware and low-level C to distributed cloud-native backends and ML pipelines. I care about correctness, performance, and systems that behave predictably under real constraints.
 
 ---
 
 ## Technical Skills
 
-### Languages
-C, C++, Rust, Java, Python, C#, TypeScript, Kotlin
-
-### Systems & Tools
-Docker, MongoDB, Flask, Django, React (Vite + MUI), .NET, Maven, Git, Linux/macOS, Arduino
-
-### Core Concepts
-Embedded systems · Operating systems · API architecture · Distributed systems · Software testing · Performance optimization 
-
-### Additional Experience 
-- Technical documentation
-- Team collaboration and leadership
-- Academic mentoring
-- Inventory and operational management
+| Area | Technologies |
+|---|---|
+| Languages | C · C++ · Rust · Python · Java · TypeScript · C# · Kotlin |
+| Backend and APIs | Flask · Django · REST · Maven · .NET |
+| Distributed and Cloud | Docker · MongoDB · React (Vite + MUI) |
+| Embedded and Systems | Arduino · C (bare metal) · Memory management · Real-time control |
+| ML and Data | Statistical ML · Sensing/Signal processing |
+| Testing and Quality | JUnit · CFG analysis · Prime path coverage · DU-pair (data-flow) |
+| Tooling | Git · Linux · macOS |
 
 ---
 
-## Currently Exploring
+## Selected Projects
 
-- Performance profiling in C systems
-- Embedded-to-cloud integration patterns
-- Resource-constrained firmware design
+### Cloud-Native Resource Management System
+
+> `TypeScript` · `React` · `Flask` · `MongoDB` · `Docker` · `REST API` · `Microservices`  
+> January 2026 to April 2026 · Cloud-Native App Development · UT Austin
+
+A full software lifecycle project evolving a hardware checkout system across three phases: monolith architecture, structural testing, and microservice decomposition.
+
+Phase 1: Monolith · [awarbler/cloud-native-team-project](https://github.com/awarbler/cloud-native-team-project)
+- Built a distributed full-stack system with React (TypeScript), Flask, MongoDB, and Docker
+- Designed ownership-based filtering and API validation at service boundaries
+- Implemented hardware lifecycle management with check-in and check-out status tracking
+
+Phase 2: Software Testing · [awarbler/cloud-native-team-project](https://github.com/awarbler/cloud-native-team-project)
+- Applied structural coverage analysis to the monolith codebase
+- Designed test suites targeting prime path and data-flow (DU-pair) coverage
+- Wrote integration tests with end-to-end traceability
+
+Phase 3: Microservice Architecture · [P-wig/cloud-native-resource-microservice](https://github.com/P-wig/cloud-native-resource-microservice)
+- Decomposed the monolith into independently deployable microservices
+- Applied containerization and service boundary design principles
+- Focused on scalability, separation of concerns, and inter-service communication
+
+---
+
+### Software Testing: Structural Coverage and Graph Analysis
+
+> `Java` · `JUnit` · `Control Flow Graphs` · `Prime path` · `DU-pair analysis`  
+> Spring 2026 · Software Testing · UT Austin
+
+Formal testing framework covering structural and data-flow coverage techniques applied to real codebases.
+
+- Constructed Control Flow Graphs (CFGs) from source code
+- Computed prime path and DU-pair (def-use) coverage sets
+- Designed JUnit test suites targeting coverage requirements
+
+---
+
+### Rust SQL Parser
+
+> `Rust` · `Ownership model` · `Structured parsing`  
+> Fall 2025 · Programming Paradigms · UT Austin
+
+Systems-level SQL parser implementing Rust's ownership and borrowing model with performance-aware design.
+
+- Applied Rust's static type system and ownership rules to parsing logic
+- Focused on zero-copy and allocation-aware implementation patterns
+
+---
+
+### Embedded IoT Thermostat: Senior Capstone
+
+> `C` · `Arduino` · `PIR sensor` · `DHT11` · `Real-time control`  
+> January 2024 to April 2024 · Senior Project · BYUI
+
+Microcontroller-based thermostat with motion detection and environmental sensing, designed for resource-constrained hardware with real-time control logic and precise timing and state management.
+
+- Integrated PIR and DHT11 sensors for motion and temperature/humidity input
+- Implemented a real-time state machine for control logic under hardware timing constraints
+- Focused on hardware to software interaction and memory-efficient design
 
 ---
 
 ## Education
 
-MS Software Engineering — University of Texas at Austin  
-BS Software Engineering — Brigham Young University  
-
-Relevant coursework: Systems Programming, Operating Systems, Computer Systems, Cloud-Native Application Development, Software Testing, Communication Networks, Computer Security, Machine Learning.
+| Degree | Institution | Period |
+|---|---|---|
+| MSE Software Engineering (OPIII · WP) | University of Texas at Austin | 2024 to present |
+| BS Software Engineering | Brigham Young University Idaho | 2019 to 2024 |
 
 ---
 
-## Portfolio
+## Graduate Coursework: UT Austin (2024 to present)
 
-Website: https://awarbler.github.io/
+Completed:
+- Systems Programming (Fall 2024)
+- Communication Networks: Tech/Arch/Protocols (Spring 2025)
+- Human Signals: Sensing/Analytics (Spring 2025)
+- Advanced Programming Tools (Summer 2025)
+- Programming Paradigms (Fall 2025)
+- Statistical Machine Learning (Fall 2025)
+
+In Progress (Spring 2026):
+- Cloud-Native App Development
+- Software Testing
+
+---
+
+## Undergraduate Coursework: BYUI (2019 to 2024, selected)
+
+Systems and Low-Level: C Language · Computer Systems · Operating Systems I · Applied Programming · Computer Security
+
+Software Engineering: OOP · Data Structures · Architectural Design · Software Lifecycle Models · Software Testing · Requirements Elicitation · .NET Development
+
+Data and Web: Database Design and Development · Web Frontend Development · Web Backend Development II · UI Eval and Design
+
+Advanced: Machine Learning · Senior Project · Discrete Mathematics · Special Topics
+
+---
+
+## Currently Exploring
+
+- Performance profiling and optimization in C systems
+- Embedded to cloud integration patterns
+- Resource-constrained firmware design
+
+---
+
+Open to Summer/Fall 2026 internships · Last updated April 2026
