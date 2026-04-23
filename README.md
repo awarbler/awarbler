@@ -1,7 +1,7 @@
 # Anita Woodford
 
-MSE Software Engineering (OPIII · WP) · University of Texas at Austin  
-Focus: Software Engineering  
+MSE Focus: Software Engineering  · University of Texas at Austin  
+
 BS Software Engineering · Brigham Young University Idaho
 
 Seeking internships in Embedded/Systems Engineering · Backend/Distributed Systems · Machine Learning & Data Engineering
@@ -95,12 +95,6 @@ Microcontroller-based thermostat with motion detection and environmental sensing
 ---
 
 ## Education
-
-| Degree | Institution | Period |
-|---|---|---|
-| MSE Software Engineering (OPIII · WP) | University of Texas at Austin | 2024 to present |
-| BS Software Engineering | Brigham Young University Idaho | 2019 to 2024 |
-
 ---
 
 ## Graduate Coursework: UT Austin (2024 to present)
